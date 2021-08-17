@@ -1,1 +1,1 @@
-web: java.runtime.version=16.
+web: java -jar target/java-getting-started-1.0.jar
